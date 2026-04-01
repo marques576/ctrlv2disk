@@ -30,7 +30,7 @@ This project uses [UV](https://docs.astral.sh/uv/) for dependency management.
 
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/marques576/ctrlv2disk
    cd ctrlv2disk
    ```
 
