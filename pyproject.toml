@@ -1,0 +1,13 @@
+[project]
+name = "ctrlv2disk"
+version = "0.1.0"
+description = "A simple Python utility that saves clipboard content (text or images) to disk"
+readme = "README.md"
+requires-python = ">=3.8"
+dependencies = [
+    "Pillow>=10.0.0",
+    "pyperclip>=1.8.0",
+]
+
+[project.scripts]
+ctrlv2disk = "main:main"
