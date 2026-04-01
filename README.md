@@ -1,6 +1,6 @@
 # 📋 Ctrl+V 2 Disk
 
-A simple Python utility that saves clipboard content (text or images) to disk. Supports Windows, macOS, and Linux.
+Saves clipboard content (text or images) to disk. Supports Windows, macOS, and Linux.
 
 ---
 
