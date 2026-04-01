@@ -133,22 +133,6 @@ uv run python main.py
 
 ---
 
-## 🛠️ Development
-
-To add or update dependencies:
-
-```bash
-uv add <package-name>
-```
-
-To run with specific Python version:
-
-```bash
-uv run --python 3.11 python main.py
-```
-
----
-
 ## 📝 Supported Formats
 
 **Images:** PNG, JPEG, GIF, BMP, TIFF (automatically detected from clipboard)
